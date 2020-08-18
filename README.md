@@ -1,4 +1,4 @@
-﻿### JQuery-Topics
+### JQuery-Topics
 
 ### Techonlogies Used
 
