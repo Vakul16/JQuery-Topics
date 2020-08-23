@@ -3,5 +3,3 @@
 ### Techonlogies Used
 
 JQuery
-
-HTML / CSS
