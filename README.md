@@ -4,4 +4,4 @@
 
 JQuery
 
-HTML / CSS
+HTML & CSS
